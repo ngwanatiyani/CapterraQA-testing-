@@ -8,6 +8,6 @@ Java Development Kit (JDK): Version 8 or higher.
 
 IntelliJ IDEA (or any Java IDE): For running the test.
 
-ChromeDriver: Download the version compatible with your Chrome browser from here.
+ChromeDriver: Download the version compatible with your Chrome browser.
 
 Selenium JARs: Add the Selenium Java client library to your project.
